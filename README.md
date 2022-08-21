@@ -2,6 +2,8 @@
 
 My name is Jonah. I'm working on my Bachelor's in CS.
 
+See my blog at (jonahplusplus.dev)[https://jonahplusplus.dev/]!
+
 ## Things I enjoy:
 * Programming
 * Video Games
